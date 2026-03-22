@@ -1,0 +1,46 @@
+name: dataflow
+description: Personal Finance Tracker — offline, clean, minimal.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # ── State Management ─────────────────────────────────────────────────────────
+  provider: ^6.1.2
+
+  # ── Local Storage ────────────────────────────────────────────────────────────
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # ── Charts ───────────────────────────────────────────────────────────────────
+  fl_chart: ^0.68.0
+
+  # ── Fonts ────────────────────────────────────────────────────────────────────
+  google_fonts: ^6.2.1
+
+  # ── Utilities ────────────────────────────────────────────────────────────────
+  intl: ^0.20.2          # Date & currency formatting
+  uuid: ^4.4.0           # Unique IDs for each transaction
+  path_provider: ^2.1.3  # Needed for CSV file path resolution
+  csv: ^6.0.0            # CSV export (Settings screen)
+  share_plus: ^9.0.0     # Share the exported CSV file
+  http: ^1.2.0           # Live exchange rate API
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.9      # Code generation runner
+  hive_generator: ^2.0.1    # Auto-generates Hive TypeAdapters from annotations
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
