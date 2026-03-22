@@ -11,10 +11,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Hive](https://img.shields.io/badge/Hive-Local%20DB-FFCA28?style=for-the-badge&logo=hive&logoColor=black)](https://pub.dev/packages/hive)
-[![License](https://img.shields.io/badge/License-MIT-7C6FF7?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 
-[**Download APK**](https://github.com/YOUR_USERNAME/dataflow/releases/latest) · [**Landing Page**](https://YOUR_USERNAME.github.io/dataflow-landing) · [**Report Bug**](https://github.com/YOUR_USERNAME/dataflow/issues)
+[**Download APK**](https://github.com/DevWizard82/dataflow/releases/download/v1.0.0/app-release.apk) · [**Landing Page**](https://devwizard82.github.io/dataflow_landing_page/)
 
 </div>
 
@@ -172,6 +171,6 @@ flutter_localizations:
 
 **Anas Berrqia**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spectacular-gingersnap-aea767.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-umber-six-6zgiwk6t1w.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-berrqia-37b653346/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevWizard82)
