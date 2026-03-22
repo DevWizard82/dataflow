@@ -15,6 +15,7 @@ import '../../models/category_type.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/theme/app_theme_colors.dart';
 import '../../core/l10n/app_localizations.dart';
+import '../shared/profile_sheet.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({super.key});
@@ -383,12 +384,15 @@ class _TopBar extends StatelessWidget {
                     fontWeight: FontWeight.w700,
                     color: tc.textPrimary)),
             const Expanded(child: SizedBox()),
-            Container(
-              width: 38,
-              height: 38,
-              decoration: const BoxDecoration(
-                  color: Color(0xFFD4A574), shape: BoxShape.circle),
-              child: const Icon(Icons.person, color: Colors.white, size: 20),
+            GestureDetector(
+              onTap: () => showProfileSheet(context),
+              child: Container(
+                width: 38,
+                height: 38,
+                decoration: const BoxDecoration(
+                    color: Color(0xFFD4A574), shape: BoxShape.circle),
+                child: const Icon(Icons.person, color: Colors.white, size: 20),
+              ),
             ),
           ],
         ),

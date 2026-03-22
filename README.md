@@ -34,7 +34,7 @@
   <tr>
     <td><img src="screenshots/dashboard.png" width="180"/></td>
     <td><img src="screenshots/add_transaction.png" width="180"/></td>
-    <td><img src="screenshots/analytics.png" width="180"/></td>
+    <td><img src="screenshots/dashboard.png" width="180"/></td>
     <td><img src="screenshots/budgets.png" width="180"/></td>
     <td><img src="screenshots/settings.png" width="180"/></td>
   </tr>
