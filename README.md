@@ -106,39 +106,6 @@ lib/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK `>=3.0.0`
-- Dart SDK `>=3.0.0`
-- Android Studio / VS Code
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/dataflow.git
-cd dataflow
-
-# Install dependencies
-flutter pub get
-
-# Generate Hive adapters
-flutter pub run build_runner build --delete-conflicting-outputs
-
-# Run the app
-flutter run
-```
-
-### Build Release APK
-
-```bash
-flutter build apk --release
-# Output: build/app/outputs/flutter-apk/app-release.apk
-```
-
----
 
 ## 🌍 Localization
 
@@ -200,38 +167,11 @@ flutter_localizations:
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] iOS support
-- [ ] Recurring transactions
-- [ ] Transaction categories customization
-- [ ] Cloud backup (optional)
-- [ ] Widget for home screen
-- [ ] Play Store release
-
----
 
 ## 👨‍💻 Author
 
 **Anas Berrqia**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
----
-
-## 📄 License
-
-```
-MIT License — feel free to use, modify, and distribute.
-See LICENSE file for details.
-```
-
-<div align="center">
-
-Made with 💙 using Flutter
-
-⭐ Star this repo if you found it useful!
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spectacular-gingersnap-aea767.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-berrqia-37b653346/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevWizard82)
